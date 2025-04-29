@@ -1,5 +1,4 @@
-Make soup.
 We just made a default arg
 Master Python!
 My newest todo is added
-Clean the bag.
+Python Mega course is really awesome.
